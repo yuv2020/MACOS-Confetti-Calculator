@@ -15,37 +15,94 @@ Scientific Functions: Square root, power, and more.\
 React: A JavaScript library for building user interfaces.\
 JavaScript (ES6): Modern JavaScript features and syntax.\
 CSS: Styling and layout.\
-HTML: Markup structure.\
+HTML: Markup structure.
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
 
-## Available Scripts
+![Calculator Screenshot](./mac.jpg")
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+To run this project locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clone the repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   ```bash
+   git clone https://github.com/your-username/calculator-app.git
+   cd calculator-app
+   ```
 
-### `npm test`
+2. Install dependencies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   npm install
+   ```
 
-### `npm run build`
+3. Start the development server:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   npm start
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+4. Open your browser and visit `http://localhost:3000` to use the calculator.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage
 
-### `npm run eject`
+- Click on the buttons to input numbers and perform operations.
+- Use the special function buttons (`sin`, `cos`, `tan`, etc.) for advanced calculations.
+- Press `C` to clear the current input or `AC` to clear all.
+
+# Explanation of Each Button:
+
+### Basic Buttons
+
+● 0-9: Digits 0 through 9.
+● +/-: Changes the sign of the current number.
+● %: Calculates the percentage of the current number.
+● ÷: Division.
+● ×: Multiplication.
+● −: Subtraction.
+● +: Addition.
+● =: Calculates the result of the current operation.
+● AC: Clears all input (resets the calculator).
+
+Memory Buttons
+● MC: Clears the memory.
+● M+: Adds the current value to the memory.
+● M-: Subtracts the current value from the memory.
+● MR: Recalls the value stored in memory.
+Scientific Buttons
+● ( and ): Parentheses for grouping expressions.
+● 2nd: Toggles between primary and secondary functions on the calculator.
+● x2: Squares the current number.
+● x3: Cubes the current number.
+● xy: Raises the current number to the power of y.
+● ex: Calculates e raised to the power of the current number.
+● 10x: Calculates 10 raised to the power of the current number.
+● 1/x: Calculates the reciprocal of the current number.
+● 2√x: Calculates the square root of the current number.
+● 3√x: Calculates the cube root of the current number.
+● y√x: Calculates the y
+th
+root of the current number.
+
+● ln: Calculates the natural logarithm (base e) of the current number.
+● log10: Calculates the logarithm (base 10) of the current number.
+● x!: Calculates the factorial of the current number.
+● sin: Calculates the sine of the current number (in radians or degrees).
+● cos: Calculates the cosine of the current number (in radians or degrees).
+● tan: Calculates the tangent of the current number (in radians or degrees).
+● e: Inserts the constant e.
+● EE: Enters a number in scientific notation (e.g., 1.23e5).
+● Rad: Toggles between radians and degrees for trigonometric functions.
+● sinh: Calculates the hyperbolic sine of the current number.
+● cosh: Calculates the hyperbolic cosine of the current number.
+● tanh: Calculates the hyperbolic tangent of the current number.
+● π: Inserts the constant π.
+● Rand: Generates a random number between 0 and 1.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request.
+
