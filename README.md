@@ -6,15 +6,16 @@ Welcome to the macOS Scientific Calculator Clone! This project is a web-based re
 ## Features
 ### The calculator includes:
 
-Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
-Advanced Functions: Trigonometry (sine, cosine, tangent), logarithms (natural and base 10), exponents.
-Special Functions: Factorial, random number generation.
-Scientific Functions: Square root, power, and more.
-Technologies Used
-React: A JavaScript library for building user interfaces.
-JavaScript (ES6): Modern JavaScript features and syntax.
-CSS: Styling and layout.
-HTML: Markup structure.
+Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.\
+Advanced Functions: Trigonometry (sine, cosine, tangent), logarithms (natural and base 10), exponents.\
+Special Functions: Factorial, random number generation.\
+Scientific Functions: Square root, power, and more.\
+
+### Technologies Used
+React: A JavaScript library for building user interfaces.\
+JavaScript (ES6): Modern JavaScript features and syntax.\
+CSS: Styling and layout.\
+HTML: Markup structure.\
 
 # Getting Started with Create React App
 
