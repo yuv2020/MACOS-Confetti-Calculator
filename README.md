@@ -72,9 +72,9 @@ To run this project locally, follow these steps:
 ● MC: Clears the memory.\
 ● M+: Adds the current value to the memory.\
 ● M-: Subtracts the current value from the memory.\
-● MR: Recalls the value stored in memory.\
+● MR: Recalls the value stored in memory.
 
-### Scientific Buttons\
+### Scientific Buttons
 
 ● ( and ): Parentheses for grouping expressions.\
 ● 2nd: Toggles between primary and secondary functions on the calculator.\
@@ -101,7 +101,7 @@ To run this project locally, follow these steps:
 ● cosh: Calculates the hyperbolic cosine of the current number.\
 ● tanh: Calculates the hyperbolic tangent of the current number.\
 ● π: Inserts the constant π.\
-● Rand: Generates a random number between 0 and 1.\
+● Rand: Generates a random number between 0 and 1.
 
 ## Contributing
 
