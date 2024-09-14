@@ -61,6 +61,7 @@ To run this project locally, follow these steps:
 ● +/-: Changes the sign of the current number.\
 ● %: Calculates the percentage of the current number.\
 ● ÷: Division.\
+
 ● ×: Multiplication.\
 ● −: Subtraction.\
 ● +: Addition.\
